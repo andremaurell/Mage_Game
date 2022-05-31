@@ -203,9 +203,6 @@ def main():
 	inicio.getMouse()
 	inicio.close()
 main()	
-######COMENTARIO
-'''Nesta primeira semana, tentei botar tudo que precisava botar no jogo para depois só trabalhar em coisas um pouco mais complexas, nas proximas semanas, respectivamente, pretendo botar a movimentação, arrumar a posição dos personagens e mexer nos "ataques" de todos bonecos, e na ultima pretendo acrescentar a colisão, tanto de ataque quanto pra andar para os bonecos não se atravessarem e não atravessarem as paredes.'''
-#####COMENTARIO
 	
 	
 	
